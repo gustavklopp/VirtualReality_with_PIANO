@@ -6,7 +6,7 @@ You can see a proof of concept of this in 2 videos that I've made :
 
 https://mediacru.sh/Yq0rz71QrqN2
 
-https://mediacru.sh/6GWSihSKZ7u9
+https://mediacru.sh/6GWSihSKZ7u9 (no sound for this one since I didn't have my microphone this time... but it's working!)
 
 
 ## Tools
